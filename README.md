@@ -1,1 +1,1 @@
-# promter
+# prompt
